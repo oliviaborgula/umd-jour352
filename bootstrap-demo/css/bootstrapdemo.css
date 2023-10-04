@@ -1,0 +1,31 @@
+header, 
+.top{
+    text-align: center;
+    color:white;
+    background-color: #0C2208;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 900;
+    letter-spacing: 0.5em;
+}
+
+/*nav links*/
+.nav-link{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#FFFFFF
+}
+
+body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    .address{
+        text-align:right;
+        font-family:'Courier New', Courier, monospace
+        
+    }
+    .serving{
+        background: #E3CA9E;
+        padding: 2em;
+        text-align:center;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
+    }
+}
