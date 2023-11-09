@@ -1,0 +1,142 @@
+@media (min-width: 992px) {
+    .intro{
+        width: 55%;
+    }
+}
+.intro h1{
+    font-size: initial;
+}
+
+@media (min-width: 768px) {
+    .intro{
+        width: 75%;
+    }
+    .intro h1{
+        font-size: calc(1.5em + 2vw);
+    }
+  }
+  
+  @media (max-width: 767.98px) {
+    .intro{
+        width: 93%;
+    }
+    .intro h1{
+        font-size: 800%;
+    }
+
+  }
+
+header{
+    text-align: center;
+    background-color: black;
+    color: #FCFDFE;
+    padding: 5% 0;
+}
+
+header p{
+    font-family: Inconsolata;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3.5em;
+    font-family: Inconsolata;
+    margin: 0;
+    text-align: center; 
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+    background-color: #121212;
+}
+
+p{
+    font-family: roboto;
+    font-size: 15px;
+}
+
+p.byline{
+    font-family: Inconsolata;
+    letter-spacing: .15em;
+    font-size: 11px;
+    margin: 0;
+}
+
+.intro{
+    background-color: #FCFDFE;
+    padding: 0 25%;
+}
+
+.results{
+    background-color: #FCFDFE;
+    padding: 5%;
+}
+
+.intro p{
+    font-family: Inconsolata;
+}
+
+.beginning{
+    padding: 0 25%;
+    background-color: #FCFDFE;
+    font-family: roboto;
+}
+
+.results{
+    padding: 0 25%;
+}
+
+.results p{
+    padding: 5% 0;
+}
+
+h2{
+    font-family: Inconsolata;
+    font-size: 1.75em;
+}
+.automatic, .vimeo, .phone, .cancel, .explain, .account, .email, .patterns, .however{
+    background-color:black;
+    color: #FCFDFE;
+    font-family: roboto;
+    padding: 25%;
+    min-height: 80vh;
+}
+
+h3{
+    font-family: Inconsolata;
+    font-size: 1.5em;
+}
+
+h4{
+    font-size: 1.5em;
+}
+
+.conclusion, .websites, .regulation, .easy, .keyissues, .friction{
+    font-family: roboto;
+    padding: 5% 25%;
+    background-color: #FCFDFE;
+    color: black; 
+}
+
+.blockquote p{
+    color: #DB5461;
+    font-family: Inconsolata;
+    padding: 10% 0;
+}
+
+footer p{
+    text-align: center;
+    font-family: Inconsolata;
+    line-height: .5;
+}
+
+a {
+    color: #DB5461; 
+    text-decoration: none;
+}
+
+a:hover {
+    color: #DB5461; 
+}
+
