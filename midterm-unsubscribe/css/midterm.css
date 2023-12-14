@@ -6,7 +6,6 @@
 .intro h1{
     font-size: initial;
 }
-
 @media (min-width: 768px) {
     .intro{
         width: 75%;
@@ -26,6 +25,7 @@
 
   }
 
+  
 header{
     text-align: center;
     background-color: black;

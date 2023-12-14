@@ -1,0 +1,107 @@
+@media screen and (max-width: 768px) {
+    .pagetwo, .pagethree, .pagefour, .pagefive, .pagesix, .pageseven {
+      padding: 10% 5%;
+    }
+  
+    .elf-bars, .steam, .phfront, .phsign, .vaping {
+      width: 100%;
+    }
+  }
+
+.pageone img{
+    width: 100%;
+    height: auto;
+}
+
+.pagetwo{
+    background-image:linear-gradient(to right, pink , yellow);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+    padding: 20% 5%;
+}
+
+.pagethree{
+    background-image:linear-gradient(to right, #EAC5FA , #86F3DB);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+    padding: 20% 5%;
+}
+
+.pagefour{
+    background-image:linear-gradient(to right, #70EC66 , #F6AEBD);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+    padding: 20% 5%;
+}
+
+.pagefive{
+    background-image:linear-gradient(to right, #F07A7A , #9EC5D3);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+    padding: 20% 5%;
+}
+
+.pagesix{
+    background-image:linear-gradient(to right, #EBC8F6, #66b2b2);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+    padding: 20% 5%;
+    
+}
+
+.pageseven{
+    background-image:linear-gradient(to right, #E75980, #F0E75E);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+    padding: 20% 5%;
+}
+
+
+h1{
+    font-family: "Press Start 2P";
+    text-align: center;
+}
+
+.elf-bars, .steam, .phfront, .phsign, .vaping{
+    width: 93%;
+    justify-content: center;
+}
+
+a {
+    color: #DB5461; 
+    text-decoration: none;
+}
+
+a:hover {
+    color: #DB5461; 
+}
+
+h1 {
+    margin-bottom: 40px;
+}
+
+iframe {
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+footer{
+    text-align: center;
+    padding: 100px 100px 0;
+}
+
+.caption1, .caption2, .caption3, .caption4, .caption5{
+    font-size: .80em;
+    width: 93%;
+    margin-bottom: 35px;
+}
+
+
+
+
+
+
+
+
+
+
